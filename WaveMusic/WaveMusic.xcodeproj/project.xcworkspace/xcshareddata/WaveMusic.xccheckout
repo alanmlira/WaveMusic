@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A1C77E9E-D675-4D46-ACF4-D9AC8A298BE6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WaveMusic</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>405D90F4869CA08DE3312BF50A2A6E1B4A4F6871</key>
+		<string>https://github.com/alanmlira/WaveMusic.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WaveMusic/WaveMusic.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>405D90F4869CA08DE3312BF50A2A6E1B4A4F6871</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/alanmlira/WaveMusic.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>405D90F4869CA08DE3312BF50A2A6E1B4A4F6871</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>405D90F4869CA08DE3312BF50A2A6E1B4A4F6871</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WaveMusic</string>
+		</dict>
+	</array>
+</dict>
+</plist>
